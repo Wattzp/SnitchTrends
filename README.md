@@ -42,6 +42,13 @@ Unrealistic discounts and profit values
 
 
 
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+df = pd.read_csv("diabetes.csv")
+```
+
 
 
 
