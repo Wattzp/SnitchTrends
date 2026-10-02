@@ -52,7 +52,7 @@ df = pd.read_csv("diabetes.csv")
 
 
 
-
+***The data is not correctly organised
 
 
 
